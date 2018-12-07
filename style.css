@@ -1,0 +1,18 @@
+body {
+  background-color: PaleGreen;
+  color: blue;
+}
+
+h1{
+  color:#800000;
+}
+
+th, td {
+  border:1px solid black;
+  padding: 10px;
+  text-align: right;
+}
+
+p {
+  color: purple;
+}
